@@ -3,6 +3,17 @@
 An end-to-end data science and engineering project that forecasts **average flight delays for UK airports** using historical aviation performance data.  
 The system demonstrates the complete lifecycle from **raw data processing** to **forecasting, visualisation, API deployment, and frontend integration**.
 
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-teal)](https://fastapi.tiangolo.com/)
+[![React](https://img.shields.io/badge/React-Frontend-61dafb)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-Build_Tool-646cff)](https://vitejs.dev/)
+[![ARIMA](https://img.shields.io/badge/Time_Series-ARIMA%20%7C%20SARIMA-orange)](https://www.statsmodels.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-Regression-green)](https://xgboost.ai/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-Production_Ready-2496ED)](https://www.docker.com/)
+[![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-yellow)](https://matplotlib.org/)
+
+
 ---
 
 ## 🔍 Project Overview
